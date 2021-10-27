@@ -42,3 +42,6 @@ Citizen.CreateThread(function()
  		end
  	end
  end)
+
+
+print("Ragdoll by 7empest loaded")
