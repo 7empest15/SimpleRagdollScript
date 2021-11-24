@@ -10,5 +10,10 @@ FiveM install:
 Default config:
 
 - default key : U                       
-- you can config this script in `client.lua` file
+- you can config this script in `client.lua` file<
+
+Bug / Suggestions:
+
+- contact me with discord
+- 7empest15#7997
 
